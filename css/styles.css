@@ -1,0 +1,17 @@
+.grid {
+ font-size: 14px;
+}
+.image-wrapper {
+  display:flex;
+  justify-content: center;
+  background-color: #ECF2E4;
+  height: 10em;
+  background-image: url(images/perrito.jpg);
+  background-size: cover;
+  background-position: center;
+
+}
+.image-wrapper p {
+  align-self: flex-end;
+  margin: .5em;
+}
